@@ -1,0 +1,8 @@
+We are seeking an AI Algorithm Engineer Intern to help build production features.
+Requirements:
+- Python, data structures, and algorithms
+- Experience with ML fundamentals (classification, regression)
+- Familiarity with NLP, vector databases, embeddings
+- Knowledge of PyTorch or TensorFlow
+- Experience with browser automation (Playwright/Puppeteer) is a plus
+- Strong communication and teamwork

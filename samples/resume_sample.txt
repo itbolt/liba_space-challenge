@@ -1,0 +1,26 @@
+MINH PHAM
+Email: minh@example.com | Phone: +1-555-867-5309 | GitHub: github.com/minh
+
+SUMMARY
+Undergraduate engineer with experience building ML prototypes and web tools.
+
+EXPERIENCE
+Project: Text Classifier (Python, PyTorch)
+- Implemented CNN and BiLSTM models for sentiment analysis, reaching 90% accuracy.
+- Built data preprocessing pipeline; tokenization, padding, vocabulary pruning.
+- Logged experiments and metrics; reproducible training runs.
+
+Project: Resume Tailor
+- Parsed PDF and DOCX, rebuilt ATS-friendly resume with ReportLab.
+- Extracted JD skills, matched resume bullets, and generated highlights.
+
+Project: Browser Automation
+- Wrote Playwright scripts to fill forms and upload files on Greenhouse.
+- Added robust selectors matching labels, names, and placeholders.
+
+SKILLS
+Python, PyTorch, TensorFlow, scikit-learn, data structures, algorithms,
+NLP, embeddings, vector databases, Playwright, Git
+
+EDUCATION
+UCSB - B.S. (in progress)
